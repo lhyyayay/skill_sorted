@@ -1,0 +1,158 @@
+﻿[
+  {
+    "skill": "google-docs",
+    "reason": "当前原版依赖 OpenAI 插件接口、专用运行时或模板服务；没有适配后端，未放入可安装技能。"
+  },
+  {
+    "skill": "google-drive",
+    "reason": "当前原版依赖 OpenAI 插件接口、专用运行时或模板服务；没有适配后端，未放入可安装技能。"
+  },
+  {
+    "skill": "google-drive-comments",
+    "reason": "当前原版依赖 OpenAI 插件接口、专用运行时或模板服务；没有适配后端，未放入可安装技能。"
+  },
+  {
+    "skill": "google-sheets",
+    "reason": "当前原版依赖 OpenAI 插件接口、专用运行时或模板服务；没有适配后端，未放入可安装技能。"
+  },
+  {
+    "skill": "google-slides",
+    "reason": "当前原版依赖 OpenAI 插件接口、专用运行时或模板服务；没有适配后端，未放入可安装技能。"
+  },
+  {
+    "skill": "visualize",
+    "reason": "当前原版依赖 OpenAI 插件接口、专用运行时或模板服务；没有适配后端，未放入可安装技能。"
+  },
+  {
+    "skill": "artifact-template-analytics-dashboard",
+    "reason": "当前原版依赖 OpenAI 插件接口、专用运行时或模板服务；没有适配后端，未放入可安装技能。"
+  },
+  {
+    "skill": "artifact-template-business-review",
+    "reason": "当前原版依赖 OpenAI 插件接口、专用运行时或模板服务；没有适配后端，未放入可安装技能。"
+  },
+  {
+    "skill": "artifact-template-design-report",
+    "reason": "当前原版依赖 OpenAI 插件接口、专用运行时或模板服务；没有适配后端，未放入可安装技能。"
+  },
+  {
+    "skill": "artifact-template-experiment-analysis",
+    "reason": "当前原版依赖 OpenAI 插件接口、专用运行时或模板服务；没有适配后端，未放入可安装技能。"
+  },
+  {
+    "skill": "artifact-template-financial-budget",
+    "reason": "当前原版依赖 OpenAI 插件接口、专用运行时或模板服务；没有适配后端，未放入可安装技能。"
+  },
+  {
+    "skill": "artifact-template-investment-committee-memo",
+    "reason": "当前原版依赖 OpenAI 插件接口、专用运行时或模板服务；没有适配后端，未放入可安装技能。"
+  },
+  {
+    "skill": "artifact-template-legal-memorandum",
+    "reason": "当前原版依赖 OpenAI 插件接口、专用运行时或模板服务；没有适配后端，未放入可安装技能。"
+  },
+  {
+    "skill": "artifact-template-market-trends-report",
+    "reason": "当前原版依赖 OpenAI 插件接口、专用运行时或模板服务；没有适配后端，未放入可安装技能。"
+  },
+  {
+    "skill": "artifact-template-minimal-letterhead",
+    "reason": "当前原版依赖 OpenAI 插件接口、专用运行时或模板服务；没有适配后端，未放入可安装技能。"
+  },
+  {
+    "skill": "artifact-template-operating-calendar",
+    "reason": "当前原版依赖 OpenAI 插件接口、专用运行时或模板服务；没有适配后端，未放入可安装技能。"
+  },
+  {
+    "skill": "artifact-template-operating-review",
+    "reason": "当前原版依赖 OpenAI 插件接口、专用运行时或模板服务；没有适配后端，未放入可安装技能。"
+  },
+  {
+    "skill": "artifact-template-project-kickoff",
+    "reason": "当前原版依赖 OpenAI 插件接口、专用运行时或模板服务；没有适配后端，未放入可安装技能。"
+  },
+  {
+    "skill": "artifact-template-project-tracker",
+    "reason": "当前原版依赖 OpenAI 插件接口、专用运行时或模板服务；没有适配后端，未放入可安装技能。"
+  },
+  {
+    "skill": "artifact-template-sales-pipeline",
+    "reason": "当前原版依赖 OpenAI 插件接口、专用运行时或模板服务；没有适配后端，未放入可安装技能。"
+  },
+  {
+    "skill": "artifact-template-simple-dark-mode",
+    "reason": "当前原版依赖 OpenAI 插件接口、专用运行时或模板服务；没有适配后端，未放入可安装技能。"
+  },
+  {
+    "skill": "artifact-template-simple-light-mode",
+    "reason": "当前原版依赖 OpenAI 插件接口、专用运行时或模板服务；没有适配后端，未放入可安装技能。"
+  },
+  {
+    "skill": "artifact-template-strategy-memorandum",
+    "reason": "当前原版依赖 OpenAI 插件接口、专用运行时或模板服务；没有适配后端，未放入可安装技能。"
+  },
+  {
+    "skill": "artifact-template-system-design",
+    "reason": "当前原版依赖 OpenAI 插件接口、专用运行时或模板服务；没有适配后端，未放入可安装技能。"
+  },
+  {
+    "skill": "artifact-template-team-alignment",
+    "reason": "当前原版依赖 OpenAI 插件接口、专用运行时或模板服务；没有适配后端，未放入可安装技能。"
+  },
+  {
+    "skill": "artifact-template-three-statement-forecast",
+    "reason": "当前原版依赖 OpenAI 插件接口、专用运行时或模板服务；没有适配后端，未放入可安装技能。"
+  },
+  {
+    "skill": "plugin-management",
+    "reason": "当前原版依赖 OpenAI 插件接口、专用运行时或模板服务；没有适配后端，未放入可安装技能。"
+  },
+  {
+    "skill": "template-creator",
+    "reason": "当前原版依赖 OpenAI 插件接口、专用运行时或模板服务；没有适配后端，未放入可安装技能。"
+  },
+  {
+    "skill": "excel-live-control",
+    "reason": "当前原版依赖 OpenAI 插件接口、专用运行时或模板服务；没有适配后端，未放入可安装技能。"
+  },
+  {
+    "skill": "spreadsheets",
+    "reason": "当前原版依赖 OpenAI 插件接口、专用运行时或模板服务；没有适配后端，未放入可安装技能。"
+  },
+  {
+    "skill": "documents",
+    "reason": "当前原版依赖 OpenAI 插件接口、专用运行时或模板服务；没有适配后端，未放入可安装技能。"
+  },
+  {
+    "skill": "pdf-openai",
+    "reason": "当前原版依赖 OpenAI 插件接口、专用运行时或模板服务；没有适配后端，未放入可安装技能。"
+  },
+  {
+    "skill": "create-pet",
+    "reason": "当前原版依赖 OpenAI 插件接口、专用运行时或模板服务；没有适配后端，未放入可安装技能。"
+  },
+  {
+    "skill": "pets",
+    "reason": "当前原版依赖 OpenAI 插件接口、专用运行时或模板服务；没有适配后端，未放入可安装技能。"
+  },
+  {
+    "skill": "update-pet",
+    "reason": "当前原版依赖 OpenAI 插件接口、专用运行时或模板服务；没有适配后端，未放入可安装技能。"
+  },
+  {
+    "skill": "presentations",
+    "reason": "当前原版依赖 OpenAI 插件接口、专用运行时或模板服务；没有适配后端，未放入可安装技能。"
+  },
+  {
+    "skill": "computer-use",
+    "reason": "当前原版依赖 OpenAI 插件接口、专用运行时或模板服务；没有适配后端，未放入可安装技能。"
+  },
+  {
+    "skill": "sites",
+    "reason": "当前原版依赖 OpenAI 插件接口、专用运行时或模板服务；没有适配后端，未放入可安装技能。"
+  },
+  {
+    "skill": "sites-remix",
+    "reason": "当前原版依赖 OpenAI 插件接口、专用运行时或模板服务；没有适配后端，未放入可安装技能。"
+  }
+]

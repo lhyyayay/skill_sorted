@@ -1,0 +1,240 @@
+﻿[
+  {
+    "skill": "agent-reach",
+    "category": "互联网调研",
+    "entry": "互联网调研/agent-reach/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\skills\\agent-reach\\SKILL.md",
+    "status": "需配置工具或运行环境；未在目标 Agent 运行验收"
+  },
+  {
+    "skill": "cli-creator",
+    "category": "代码维护",
+    "entry": "代码维护/cli-creator/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\skills\\cli-creator\\SKILL.md",
+    "status": "需配置工具或运行环境；未在目标 Agent 运行验收"
+  },
+  {
+    "skill": "gh-address-comments",
+    "category": "代码维护",
+    "entry": "代码维护/gh-address-comments/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\skills\\gh-address-comments\\SKILL.md",
+    "status": "需配置工具或运行环境；未在目标 Agent 运行验收"
+  },
+  {
+    "skill": "gh-fix-ci",
+    "category": "代码维护",
+    "entry": "代码维护/gh-fix-ci/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\skills\\gh-fix-ci\\SKILL.md",
+    "status": "需配置工具或运行环境；未在目标 Agent 运行验收"
+  },
+  {
+    "skill": "review-agent",
+    "category": "代码维护",
+    "entry": "代码维护/review-agent/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\skills\\.system\\review-agent\\SKILL.md",
+    "status": "需配置工具或运行环境；未在目标 Agent 运行验收"
+  },
+  {
+    "skill": "security-best-practices",
+    "category": "代码维护",
+    "entry": "代码维护/security-best-practices/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\skills\\security-best-practices\\SKILL.md",
+    "status": "需配置工具或运行环境；未在目标 Agent 运行验收"
+  },
+  {
+    "skill": "write-like-me",
+    "category": "写作辅助",
+    "entry": "写作辅助/write-like-me-0.1.1/skills/write-like-me/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\plugins\\cache\\openai-curated-remote\\write-like-me\\0.1.1\\skills\\write-like-me\\SKILL.md",
+    "status": "需配置工具或运行环境；未在目标 Agent 运行验收"
+  },
+  {
+    "skill": "imagegen",
+    "category": "图像生成",
+    "entry": "图像生成/imagegen/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\skills\\.system\\imagegen\\SKILL.md",
+    "status": "已增加宿主适配说明；仍需配置依赖，未运行验收"
+  },
+  {
+    "skill": "drawio-skill",
+    "category": "图表绘制",
+    "entry": "图表绘制/drawio-skill/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.agents\\skills\\cumcm-step-review\\tools\\drawio\\SKILL.md",
+    "status": "需配置工具或运行环境；未在目标 Agent 运行验收"
+  },
+  {
+    "skill": "dual-paper-search",
+    "category": "学术检索",
+    "entry": "学术检索/dual-paper-search/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.agents\\skills\\cumcm-step-review\\tools\\paper_search\\SKILL.md",
+    "status": "需配置工具或运行环境；未在目标 Agent 运行验收"
+  },
+  {
+    "skill": "find-skills",
+    "category": "技能管理",
+    "entry": "技能管理/find-skills/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\skills\\find-skills\\SKILL.md",
+    "status": "需配置工具或运行环境；未在目标 Agent 运行验收"
+  },
+  {
+    "skill": "openai-docs",
+    "category": "技能管理",
+    "entry": "技能管理/openai-docs/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\skills\\.system\\openai-docs\\SKILL.md",
+    "status": "已增加宿主适配说明；仍需配置依赖，未运行验收"
+  },
+  {
+    "skill": "skill-creator",
+    "category": "技能管理",
+    "entry": "技能管理/skill-creator/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\skills\\.system\\skill-creator\\SKILL.md",
+    "status": "已增加宿主适配说明；仍需配置依赖，未运行验收"
+  },
+  {
+    "skill": "skill-installer",
+    "category": "技能管理",
+    "entry": "技能管理/skill-installer/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\skills\\.system\\skill-installer\\SKILL.md",
+    "status": "已增加宿主适配说明；仍需配置依赖，未运行验收"
+  },
+  {
+    "skill": "cumcm-step-review",
+    "category": "数学建模",
+    "entry": "数学建模/cumcm-step-review/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.agents\\skills\\cumcm-step-review\\SKILL.md",
+    "status": "需配置工具或运行环境；未在目标 Agent 运行验收"
+  },
+  {
+    "skill": "jupyter-notebook",
+    "category": "数据分析",
+    "entry": "数据分析/jupyter-notebook/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\skills\\jupyter-notebook\\SKILL.md",
+    "status": "需配置工具或运行环境；未在目标 Agent 运行验收"
+  },
+  {
+    "skill": "xlsx-tools",
+    "category": "数据分析",
+    "entry": "数据分析/xlsx-tools/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.agents\\skills\\cumcm-step-review\\tools\\xlsx\\SKILL.md",
+    "status": "需配置工具或运行环境；未在目标 Agent 运行验收"
+  },
+  {
+    "skill": "docx-tools",
+    "category": "文档办公",
+    "entry": "文档办公/docx-tools/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.agents\\skills\\cumcm-step-review\\tools\\docx\\SKILL.md",
+    "status": "需配置工具或运行环境；未在目标 Agent 运行验收"
+  },
+  {
+    "skill": "latex-tools",
+    "category": "文档办公",
+    "entry": "文档办公/latex-tools/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.agents\\skills\\cumcm-step-review\\tools\\latex\\SKILL.md",
+    "status": "需配置工具或运行环境；未在目标 Agent 运行验收"
+  },
+  {
+    "skill": "pdf-cumcm",
+    "category": "文档办公",
+    "entry": "文档办公/pdf-cumcm/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.agents\\skills\\cumcm-step-review\\tools\\pdf\\SKILL.md",
+    "status": "需配置工具或运行环境；未在目标 Agent 运行验收"
+  },
+  {
+    "skill": "impeccable",
+    "category": "网站与界面设计",
+    "entry": "网站与界面设计/impeccable/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.agents\\skills\\impeccable\\SKILL.md",
+    "status": "需配置工具或运行环境；未在目标 Agent 运行验收"
+  },
+  {
+    "skill": "personal-intro-site",
+    "category": "网站与界面设计",
+    "entry": "网站与界面设计/personal-intro-site/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\skills\\personal-intro-site\\SKILL.md",
+    "status": "需配置工具或运行环境；未在目标 Agent 运行验收"
+  },
+  {
+    "skill": "hyperframes",
+    "category": "视频制作",
+    "entry": "视频制作/hyperframes/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\skills\\hyperframes\\SKILL.md",
+    "status": "需配置工具或运行环境；未在目标 Agent 运行验收"
+  },
+  {
+    "skill": "hyperframes-animation",
+    "category": "视频制作",
+    "entry": "视频制作/hyperframes-animation/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\skills\\hyperframes-animation\\SKILL.md",
+    "status": "需配置工具或运行环境；未在目标 Agent 运行验收"
+  },
+  {
+    "skill": "hyperframes-audio",
+    "category": "视频制作",
+    "entry": "视频制作/hyperframes-audio/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\skills\\hyperframes-audio\\SKILL.md",
+    "status": "需配置工具或运行环境；未在目标 Agent 运行验收"
+  },
+  {
+    "skill": "hyperframes-cli",
+    "category": "视频制作",
+    "entry": "视频制作/hyperframes-cli/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\skills\\hyperframes-cli\\SKILL.md",
+    "status": "需配置工具或运行环境；未在目标 Agent 运行验收"
+  },
+  {
+    "skill": "hyperframes-core",
+    "category": "视频制作",
+    "entry": "视频制作/hyperframes-core/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\skills\\hyperframes-core\\SKILL.md",
+    "status": "需配置工具或运行环境；未在目标 Agent 运行验收"
+  },
+  {
+    "skill": "hyperframes-creative",
+    "category": "视频制作",
+    "entry": "视频制作/hyperframes-creative/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\skills\\hyperframes-creative\\SKILL.md",
+    "status": "需配置工具或运行环境；未在目标 Agent 运行验收"
+  },
+  {
+    "skill": "hyperframes-keyframes",
+    "category": "视频制作",
+    "entry": "视频制作/hyperframes-keyframes/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\skills\\hyperframes-keyframes\\SKILL.md",
+    "status": "需配置工具或运行环境；未在目标 Agent 运行验收"
+  },
+  {
+    "skill": "hyperframes-registry",
+    "category": "视频制作",
+    "entry": "视频制作/hyperframes-registry/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\skills\\hyperframes-registry\\SKILL.md",
+    "status": "需配置工具或运行环境；未在目标 Agent 运行验收"
+  },
+  {
+    "skill": "media-use",
+    "category": "视频制作",
+    "entry": "视频制作/media-use/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\skills\\media-use\\SKILL.md",
+    "status": "需配置工具或运行环境；未在目标 Agent 运行验收"
+  },
+  {
+    "skill": "remotion-best-practices",
+    "category": "视频制作",
+    "entry": "视频制作/remotion-best-practices/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\skills\\remotion-best-practices\\SKILL.md",
+    "status": "需配置工具或运行环境；未在目标 Agent 运行验收"
+  },
+  {
+    "skill": "grill-me",
+    "category": "需求讨论",
+    "entry": "需求讨论/grill-me/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.agents\\skills\\grill-me\\SKILL.md",
+    "status": "已增加宿主适配说明；仍需配置依赖，未运行验收"
+  },
+  {
+    "skill": "grilling",
+    "category": "需求讨论",
+    "entry": "需求讨论/grilling/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.agents\\skills\\grilling\\SKILL.md",
+    "status": "需配置工具或运行环境；未在目标 Agent 运行验收"
+  }
+]

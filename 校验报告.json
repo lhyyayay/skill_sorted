@@ -1,0 +1,38 @@
+﻿{
+  "agents": {
+    "Codex": 73,
+    "Cursor": 34,
+    "Antigravity": 34,
+    "DeeSeek Harness": 34
+  },
+  "unique_source_skills": 73,
+  "duplicates_not_copied": [
+    {
+      "id": "visualize",
+      "source": "C:\\Users\\lhy20\\.codex\\plugins\\cache\\openai-bundled\\visualize\\1.0.84\\skills\\visualize\\SKILL.md",
+      "category": "交互可视化",
+      "kind": "plugin",
+      "bundle": "C:\\Users\\lhy20\\.codex\\plugins\\cache\\openai-bundled\\visualize\\1.0.84",
+      "child": false
+    }
+  ],
+  "unchanged_files_hash_verified": 10802,
+  "adapted_entries": [
+    "E:\\skills_sorted\\Cursor\\图像生成\\imagegen\\SKILL.md",
+    "E:\\skills_sorted\\Cursor\\技能管理\\openai-docs\\SKILL.md",
+    "E:\\skills_sorted\\Cursor\\技能管理\\skill-creator\\SKILL.md",
+    "E:\\skills_sorted\\Cursor\\技能管理\\skill-installer\\SKILL.md",
+    "E:\\skills_sorted\\Cursor\\需求讨论\\grill-me\\SKILL.md",
+    "E:\\skills_sorted\\Antigravity\\图像生成\\imagegen\\SKILL.md",
+    "E:\\skills_sorted\\Antigravity\\技能管理\\openai-docs\\SKILL.md",
+    "E:\\skills_sorted\\Antigravity\\技能管理\\skill-creator\\SKILL.md",
+    "E:\\skills_sorted\\Antigravity\\技能管理\\skill-installer\\SKILL.md",
+    "E:\\skills_sorted\\Antigravity\\需求讨论\\grill-me\\SKILL.md",
+    "E:\\skills_sorted\\DeeSeek Harness\\图像生成\\imagegen\\SKILL.md",
+    "E:\\skills_sorted\\DeeSeek Harness\\技能管理\\openai-docs\\SKILL.md",
+    "E:\\skills_sorted\\DeeSeek Harness\\技能管理\\skill-creator\\SKILL.md",
+    "E:\\skills_sorted\\DeeSeek Harness\\技能管理\\skill-installer\\SKILL.md",
+    "E:\\skills_sorted\\DeeSeek Harness\\需求讨论\\grill-me\\SKILL.md"
+  ],
+  "runtime_tests": "未执行；仅完成分发、入口及复制完整性校验"
+}

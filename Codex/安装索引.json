@@ -1,0 +1,513 @@
+﻿[
+  {
+    "skill": "google-docs",
+    "category": "云端办公",
+    "entry": "云端办公/google-drive-0.1.22/skills/google-docs/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\plugins\\cache\\openai-curated-remote\\google-drive\\0.1.22\\skills\\google-docs\\SKILL.md",
+    "status": "原始插件资源包；需由 Codex 提供对应插件工具/运行时，复制不等于已连接"
+  },
+  {
+    "skill": "google-drive",
+    "category": "云端办公",
+    "entry": "云端办公/google-drive-0.1.22/skills/google-drive/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\plugins\\cache\\openai-curated-remote\\google-drive\\0.1.22\\skills\\google-drive\\SKILL.md",
+    "status": "原始插件资源包；需由 Codex 提供对应插件工具/运行时，复制不等于已连接"
+  },
+  {
+    "skill": "google-drive-comments",
+    "category": "云端办公",
+    "entry": "云端办公/google-drive-0.1.22/skills/google-drive-comments/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\plugins\\cache\\openai-curated-remote\\google-drive\\0.1.22\\skills\\google-drive-comments\\SKILL.md",
+    "status": "原始插件资源包；需由 Codex 提供对应插件工具/运行时，复制不等于已连接"
+  },
+  {
+    "skill": "google-sheets",
+    "category": "云端办公",
+    "entry": "云端办公/google-drive-0.1.22/skills/google-sheets/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\plugins\\cache\\openai-curated-remote\\google-drive\\0.1.22\\skills\\google-sheets\\SKILL.md",
+    "status": "原始插件资源包；需由 Codex 提供对应插件工具/运行时，复制不等于已连接"
+  },
+  {
+    "skill": "google-slides",
+    "category": "云端办公",
+    "entry": "云端办公/google-drive-0.1.22/skills/google-slides/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\plugins\\cache\\openai-curated-remote\\google-drive\\0.1.22\\skills\\google-slides\\SKILL.md",
+    "status": "原始插件资源包；需由 Codex 提供对应插件工具/运行时，复制不等于已连接"
+  },
+  {
+    "skill": "agent-reach",
+    "category": "互联网调研",
+    "entry": "互联网调研/agent-reach/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\skills\\agent-reach\\SKILL.md",
+    "status": "需配置工具或运行环境；未在目标 Agent 运行验收"
+  },
+  {
+    "skill": "visualize",
+    "category": "交互可视化",
+    "entry": "交互可视化/visualize-1.0.89/skills/visualize/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\plugins\\cache\\openai-curated-remote\\visualize\\1.0.89\\skills\\visualize\\SKILL.md",
+    "status": "原始插件资源包；需由 Codex 提供对应插件工具/运行时，复制不等于已连接"
+  },
+  {
+    "skill": "cli-creator",
+    "category": "代码维护",
+    "entry": "代码维护/cli-creator/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\skills\\cli-creator\\SKILL.md",
+    "status": "需配置工具或运行环境；未在目标 Agent 运行验收"
+  },
+  {
+    "skill": "gh-address-comments",
+    "category": "代码维护",
+    "entry": "代码维护/gh-address-comments/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\skills\\gh-address-comments\\SKILL.md",
+    "status": "需配置工具或运行环境；未在目标 Agent 运行验收"
+  },
+  {
+    "skill": "gh-fix-ci",
+    "category": "代码维护",
+    "entry": "代码维护/gh-fix-ci/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\skills\\gh-fix-ci\\SKILL.md",
+    "status": "需配置工具或运行环境；未在目标 Agent 运行验收"
+  },
+  {
+    "skill": "review-agent",
+    "category": "代码维护",
+    "entry": "代码维护/review-agent/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\skills\\.system\\review-agent\\SKILL.md",
+    "status": "需配置工具或运行环境；未在目标 Agent 运行验收"
+  },
+  {
+    "skill": "security-best-practices",
+    "category": "代码维护",
+    "entry": "代码维护/security-best-practices/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\skills\\security-best-practices\\SKILL.md",
+    "status": "需配置工具或运行环境；未在目标 Agent 运行验收"
+  },
+  {
+    "skill": "write-like-me",
+    "category": "写作辅助",
+    "entry": "写作辅助/write-like-me-0.1.1/skills/write-like-me/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\plugins\\cache\\openai-curated-remote\\write-like-me\\0.1.1\\skills\\write-like-me\\SKILL.md",
+    "status": "原始插件资源包；需由 Codex 提供对应插件工具/运行时，复制不等于已连接"
+  },
+  {
+    "skill": "artifact-template-analytics-dashboard",
+    "category": "可复用模板",
+    "entry": "可复用模板/openai-templates-0.1.1/skills/artifact-template-analytics-dashboard/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\plugins\\cache\\openai-curated-remote\\openai-templates\\0.1.1\\skills\\artifact-template-analytics-dashboard\\SKILL.md",
+    "status": "原始插件资源包；需由 Codex 提供对应插件工具/运行时，复制不等于已连接"
+  },
+  {
+    "skill": "artifact-template-business-review",
+    "category": "可复用模板",
+    "entry": "可复用模板/openai-templates-0.1.1/skills/artifact-template-business-review/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\plugins\\cache\\openai-curated-remote\\openai-templates\\0.1.1\\skills\\artifact-template-business-review\\SKILL.md",
+    "status": "原始插件资源包；需由 Codex 提供对应插件工具/运行时，复制不等于已连接"
+  },
+  {
+    "skill": "artifact-template-design-report",
+    "category": "可复用模板",
+    "entry": "可复用模板/openai-templates-0.1.1/skills/artifact-template-design-report/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\plugins\\cache\\openai-curated-remote\\openai-templates\\0.1.1\\skills\\artifact-template-design-report\\SKILL.md",
+    "status": "原始插件资源包；需由 Codex 提供对应插件工具/运行时，复制不等于已连接"
+  },
+  {
+    "skill": "artifact-template-experiment-analysis",
+    "category": "可复用模板",
+    "entry": "可复用模板/openai-templates-0.1.1/skills/artifact-template-experiment-analysis/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\plugins\\cache\\openai-curated-remote\\openai-templates\\0.1.1\\skills\\artifact-template-experiment-analysis\\SKILL.md",
+    "status": "原始插件资源包；需由 Codex 提供对应插件工具/运行时，复制不等于已连接"
+  },
+  {
+    "skill": "artifact-template-financial-budget",
+    "category": "可复用模板",
+    "entry": "可复用模板/openai-templates-0.1.1/skills/artifact-template-financial-budget/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\plugins\\cache\\openai-curated-remote\\openai-templates\\0.1.1\\skills\\artifact-template-financial-budget\\SKILL.md",
+    "status": "原始插件资源包；需由 Codex 提供对应插件工具/运行时，复制不等于已连接"
+  },
+  {
+    "skill": "artifact-template-investment-committee-memo",
+    "category": "可复用模板",
+    "entry": "可复用模板/openai-templates-0.1.1/skills/artifact-template-investment-committee-memo/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\plugins\\cache\\openai-curated-remote\\openai-templates\\0.1.1\\skills\\artifact-template-investment-committee-memo\\SKILL.md",
+    "status": "原始插件资源包；需由 Codex 提供对应插件工具/运行时，复制不等于已连接"
+  },
+  {
+    "skill": "artifact-template-legal-memorandum",
+    "category": "可复用模板",
+    "entry": "可复用模板/openai-templates-0.1.1/skills/artifact-template-legal-memorandum/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\plugins\\cache\\openai-curated-remote\\openai-templates\\0.1.1\\skills\\artifact-template-legal-memorandum\\SKILL.md",
+    "status": "原始插件资源包；需由 Codex 提供对应插件工具/运行时，复制不等于已连接"
+  },
+  {
+    "skill": "artifact-template-market-trends-report",
+    "category": "可复用模板",
+    "entry": "可复用模板/openai-templates-0.1.1/skills/artifact-template-market-trends-report/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\plugins\\cache\\openai-curated-remote\\openai-templates\\0.1.1\\skills\\artifact-template-market-trends-report\\SKILL.md",
+    "status": "原始插件资源包；需由 Codex 提供对应插件工具/运行时，复制不等于已连接"
+  },
+  {
+    "skill": "artifact-template-minimal-letterhead",
+    "category": "可复用模板",
+    "entry": "可复用模板/openai-templates-0.1.1/skills/artifact-template-minimal-letterhead/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\plugins\\cache\\openai-curated-remote\\openai-templates\\0.1.1\\skills\\artifact-template-minimal-letterhead\\SKILL.md",
+    "status": "原始插件资源包；需由 Codex 提供对应插件工具/运行时，复制不等于已连接"
+  },
+  {
+    "skill": "artifact-template-operating-calendar",
+    "category": "可复用模板",
+    "entry": "可复用模板/openai-templates-0.1.1/skills/artifact-template-operating-calendar/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\plugins\\cache\\openai-curated-remote\\openai-templates\\0.1.1\\skills\\artifact-template-operating-calendar\\SKILL.md",
+    "status": "原始插件资源包；需由 Codex 提供对应插件工具/运行时，复制不等于已连接"
+  },
+  {
+    "skill": "artifact-template-operating-review",
+    "category": "可复用模板",
+    "entry": "可复用模板/openai-templates-0.1.1/skills/artifact-template-operating-review/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\plugins\\cache\\openai-curated-remote\\openai-templates\\0.1.1\\skills\\artifact-template-operating-review\\SKILL.md",
+    "status": "原始插件资源包；需由 Codex 提供对应插件工具/运行时，复制不等于已连接"
+  },
+  {
+    "skill": "artifact-template-project-kickoff",
+    "category": "可复用模板",
+    "entry": "可复用模板/openai-templates-0.1.1/skills/artifact-template-project-kickoff/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\plugins\\cache\\openai-curated-remote\\openai-templates\\0.1.1\\skills\\artifact-template-project-kickoff\\SKILL.md",
+    "status": "原始插件资源包；需由 Codex 提供对应插件工具/运行时，复制不等于已连接"
+  },
+  {
+    "skill": "artifact-template-project-tracker",
+    "category": "可复用模板",
+    "entry": "可复用模板/openai-templates-0.1.1/skills/artifact-template-project-tracker/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\plugins\\cache\\openai-curated-remote\\openai-templates\\0.1.1\\skills\\artifact-template-project-tracker\\SKILL.md",
+    "status": "原始插件资源包；需由 Codex 提供对应插件工具/运行时，复制不等于已连接"
+  },
+  {
+    "skill": "artifact-template-sales-pipeline",
+    "category": "可复用模板",
+    "entry": "可复用模板/openai-templates-0.1.1/skills/artifact-template-sales-pipeline/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\plugins\\cache\\openai-curated-remote\\openai-templates\\0.1.1\\skills\\artifact-template-sales-pipeline\\SKILL.md",
+    "status": "原始插件资源包；需由 Codex 提供对应插件工具/运行时，复制不等于已连接"
+  },
+  {
+    "skill": "artifact-template-simple-dark-mode",
+    "category": "可复用模板",
+    "entry": "可复用模板/openai-templates-0.1.1/skills/artifact-template-simple-dark-mode/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\plugins\\cache\\openai-curated-remote\\openai-templates\\0.1.1\\skills\\artifact-template-simple-dark-mode\\SKILL.md",
+    "status": "原始插件资源包；需由 Codex 提供对应插件工具/运行时，复制不等于已连接"
+  },
+  {
+    "skill": "artifact-template-simple-light-mode",
+    "category": "可复用模板",
+    "entry": "可复用模板/openai-templates-0.1.1/skills/artifact-template-simple-light-mode/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\plugins\\cache\\openai-curated-remote\\openai-templates\\0.1.1\\skills\\artifact-template-simple-light-mode\\SKILL.md",
+    "status": "原始插件资源包；需由 Codex 提供对应插件工具/运行时，复制不等于已连接"
+  },
+  {
+    "skill": "artifact-template-strategy-memorandum",
+    "category": "可复用模板",
+    "entry": "可复用模板/openai-templates-0.1.1/skills/artifact-template-strategy-memorandum/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\plugins\\cache\\openai-curated-remote\\openai-templates\\0.1.1\\skills\\artifact-template-strategy-memorandum\\SKILL.md",
+    "status": "原始插件资源包；需由 Codex 提供对应插件工具/运行时，复制不等于已连接"
+  },
+  {
+    "skill": "artifact-template-system-design",
+    "category": "可复用模板",
+    "entry": "可复用模板/openai-templates-0.1.1/skills/artifact-template-system-design/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\plugins\\cache\\openai-curated-remote\\openai-templates\\0.1.1\\skills\\artifact-template-system-design\\SKILL.md",
+    "status": "原始插件资源包；需由 Codex 提供对应插件工具/运行时，复制不等于已连接"
+  },
+  {
+    "skill": "artifact-template-team-alignment",
+    "category": "可复用模板",
+    "entry": "可复用模板/openai-templates-0.1.1/skills/artifact-template-team-alignment/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\plugins\\cache\\openai-curated-remote\\openai-templates\\0.1.1\\skills\\artifact-template-team-alignment\\SKILL.md",
+    "status": "原始插件资源包；需由 Codex 提供对应插件工具/运行时，复制不等于已连接"
+  },
+  {
+    "skill": "artifact-template-three-statement-forecast",
+    "category": "可复用模板",
+    "entry": "可复用模板/openai-templates-0.1.1/skills/artifact-template-three-statement-forecast/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\plugins\\cache\\openai-curated-remote\\openai-templates\\0.1.1\\skills\\artifact-template-three-statement-forecast\\SKILL.md",
+    "status": "原始插件资源包；需由 Codex 提供对应插件工具/运行时，复制不等于已连接"
+  },
+  {
+    "skill": "imagegen",
+    "category": "图像生成",
+    "entry": "图像生成/imagegen/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\skills\\.system\\imagegen\\SKILL.md",
+    "status": "需配置工具或运行环境；未在目标 Agent 运行验收"
+  },
+  {
+    "skill": "drawio-skill",
+    "category": "图表绘制",
+    "entry": "图表绘制/drawio-skill/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.agents\\skills\\cumcm-step-review\\tools\\drawio\\SKILL.md",
+    "status": "需配置工具或运行环境；未在目标 Agent 运行验收"
+  },
+  {
+    "skill": "dual-paper-search",
+    "category": "学术检索",
+    "entry": "学术检索/dual-paper-search/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.agents\\skills\\cumcm-step-review\\tools\\paper_search\\SKILL.md",
+    "status": "需配置工具或运行环境；未在目标 Agent 运行验收"
+  },
+  {
+    "skill": "plugin-management",
+    "category": "平台管理",
+    "entry": "平台管理/plugin-management-0.1.0/skills/plugin-management/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\plugins\\cache\\openai-curated-remote\\plugin-management\\0.1.0\\skills\\plugin-management\\SKILL.md",
+    "status": "原始插件资源包；需由 Codex 提供对应插件工具/运行时，复制不等于已连接"
+  },
+  {
+    "skill": "find-skills",
+    "category": "技能管理",
+    "entry": "技能管理/find-skills/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\skills\\find-skills\\SKILL.md",
+    "status": "需配置工具或运行环境；未在目标 Agent 运行验收"
+  },
+  {
+    "skill": "openai-docs",
+    "category": "技能管理",
+    "entry": "技能管理/openai-docs/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\skills\\.system\\openai-docs\\SKILL.md",
+    "status": "需配置工具或运行环境；未在目标 Agent 运行验收"
+  },
+  {
+    "skill": "skill-creator",
+    "category": "技能管理",
+    "entry": "技能管理/skill-creator/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\skills\\.system\\skill-creator\\SKILL.md",
+    "status": "需配置工具或运行环境；未在目标 Agent 运行验收"
+  },
+  {
+    "skill": "skill-installer",
+    "category": "技能管理",
+    "entry": "技能管理/skill-installer/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\skills\\.system\\skill-installer\\SKILL.md",
+    "status": "需配置工具或运行环境；未在目标 Agent 运行验收"
+  },
+  {
+    "skill": "template-creator",
+    "category": "技能管理",
+    "entry": "技能管理/template-creator-26.1105.12137/skills/template-creator/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\plugins\\cache\\openai-primary-runtime\\template-creator\\26.1105.12137\\skills\\template-creator\\SKILL.md",
+    "status": "原始插件资源包；需由 Codex 提供对应插件工具/运行时，复制不等于已连接"
+  },
+  {
+    "skill": "cumcm-step-review",
+    "category": "数学建模",
+    "entry": "数学建模/cumcm-step-review/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.agents\\skills\\cumcm-step-review\\SKILL.md",
+    "status": "需配置工具或运行环境；未在目标 Agent 运行验收"
+  },
+  {
+    "skill": "excel-live-control",
+    "category": "数据分析",
+    "entry": "数据分析/spreadsheets-26.1105.12137/skills/excel-live-control/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\plugins\\cache\\openai-primary-runtime\\spreadsheets\\26.1105.12137\\skills\\excel-live-control\\SKILL.md",
+    "status": "原始插件资源包；需由 Codex 提供对应插件工具/运行时，复制不等于已连接"
+  },
+  {
+    "skill": "jupyter-notebook",
+    "category": "数据分析",
+    "entry": "数据分析/jupyter-notebook/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\skills\\jupyter-notebook\\SKILL.md",
+    "status": "需配置工具或运行环境；未在目标 Agent 运行验收"
+  },
+  {
+    "skill": "spreadsheets",
+    "category": "数据分析",
+    "entry": "数据分析/spreadsheets-26.1105.12137/skills/spreadsheets/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\plugins\\cache\\openai-primary-runtime\\spreadsheets\\26.1105.12137\\skills\\spreadsheets\\SKILL.md",
+    "status": "原始插件资源包；需由 Codex 提供对应插件工具/运行时，复制不等于已连接"
+  },
+  {
+    "skill": "xlsx-tools",
+    "category": "数据分析",
+    "entry": "数据分析/xlsx-tools/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.agents\\skills\\cumcm-step-review\\tools\\xlsx\\SKILL.md",
+    "status": "需配置工具或运行环境；未在目标 Agent 运行验收"
+  },
+  {
+    "skill": "documents",
+    "category": "文档办公",
+    "entry": "文档办公/documents-26.1105.12137/skills/documents/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\plugins\\cache\\openai-primary-runtime\\documents\\26.1105.12137\\skills\\documents\\SKILL.md",
+    "status": "原始插件资源包；需由 Codex 提供对应插件工具/运行时，复制不等于已连接"
+  },
+  {
+    "skill": "docx-tools",
+    "category": "文档办公",
+    "entry": "文档办公/docx-tools/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.agents\\skills\\cumcm-step-review\\tools\\docx\\SKILL.md",
+    "status": "需配置工具或运行环境；未在目标 Agent 运行验收"
+  },
+  {
+    "skill": "latex-tools",
+    "category": "文档办公",
+    "entry": "文档办公/latex-tools/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.agents\\skills\\cumcm-step-review\\tools\\latex\\SKILL.md",
+    "status": "需配置工具或运行环境；未在目标 Agent 运行验收"
+  },
+  {
+    "skill": "pdf-cumcm",
+    "category": "文档办公",
+    "entry": "文档办公/pdf-cumcm/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.agents\\skills\\cumcm-step-review\\tools\\pdf\\SKILL.md",
+    "status": "需配置工具或运行环境；未在目标 Agent 运行验收"
+  },
+  {
+    "skill": "pdf-openai",
+    "category": "文档办公",
+    "entry": "文档办公/pdf-26.1105.12137/skills/pdf/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\plugins\\cache\\openai-primary-runtime\\pdf\\26.1105.12137\\skills\\pdf\\SKILL.md",
+    "status": "原始插件资源包；需由 Codex 提供对应插件工具/运行时，复制不等于已连接"
+  },
+  {
+    "skill": "create-pet",
+    "category": "桌面宠物",
+    "entry": "桌面宠物/work-pets-0.1.6/skills/create-pet/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\plugins\\cache\\openai-curated-remote\\work-pets\\0.1.6\\skills\\create-pet\\SKILL.md",
+    "status": "原始插件资源包；需由 Codex 提供对应插件工具/运行时，复制不等于已连接"
+  },
+  {
+    "skill": "pets",
+    "category": "桌面宠物",
+    "entry": "桌面宠物/work-pets-0.1.6/skills/pets/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\plugins\\cache\\openai-curated-remote\\work-pets\\0.1.6\\skills\\pets\\SKILL.md",
+    "status": "原始插件资源包；需由 Codex 提供对应插件工具/运行时，复制不等于已连接"
+  },
+  {
+    "skill": "update-pet",
+    "category": "桌面宠物",
+    "entry": "桌面宠物/work-pets-0.1.6/skills/update-pet/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\plugins\\cache\\openai-curated-remote\\work-pets\\0.1.6\\skills\\update-pet\\SKILL.md",
+    "status": "原始插件资源包；需由 Codex 提供对应插件工具/运行时，复制不等于已连接"
+  },
+  {
+    "skill": "presentations",
+    "category": "演示文稿",
+    "entry": "演示文稿/presentations-26.1105.12137/skills/presentations/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\plugins\\cache\\openai-primary-runtime\\presentations\\26.1105.12137\\skills\\presentations\\SKILL.md",
+    "status": "原始插件资源包；需由 Codex 提供对应插件工具/运行时，复制不等于已连接"
+  },
+  {
+    "skill": "computer-use",
+    "category": "电脑操作",
+    "entry": "电脑操作/computer-use-26.1103.32239/skills/computer-use/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\plugins\\cache\\openai-bundled\\computer-use\\26.1103.32239\\skills\\computer-use\\SKILL.md",
+    "status": "原始插件资源包；需由 Codex 提供对应插件工具/运行时，复制不等于已连接"
+  },
+  {
+    "skill": "impeccable",
+    "category": "网站与界面设计",
+    "entry": "网站与界面设计/impeccable/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.agents\\skills\\impeccable\\SKILL.md",
+    "status": "需配置工具或运行环境；未在目标 Agent 运行验收"
+  },
+  {
+    "skill": "personal-intro-site",
+    "category": "网站与界面设计",
+    "entry": "网站与界面设计/personal-intro-site/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\skills\\personal-intro-site\\SKILL.md",
+    "status": "需配置工具或运行环境；未在目标 Agent 运行验收"
+  },
+  {
+    "skill": "sites",
+    "category": "网站与界面设计",
+    "entry": "网站与界面设计/sites-1.1.4/skills/sites/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\plugins\\cache\\openai-curated-remote\\sites\\1.1.4\\skills\\sites\\SKILL.md",
+    "status": "原始插件资源包；需由 Codex 提供对应插件工具/运行时，复制不等于已连接"
+  },
+  {
+    "skill": "sites-remix",
+    "category": "网站与界面设计",
+    "entry": "网站与界面设计/sites-1.1.4/skills/sites-remix/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\plugins\\cache\\openai-curated-remote\\sites\\1.1.4\\skills\\sites-remix\\SKILL.md",
+    "status": "原始插件资源包；需由 Codex 提供对应插件工具/运行时，复制不等于已连接"
+  },
+  {
+    "skill": "hyperframes",
+    "category": "视频制作",
+    "entry": "视频制作/hyperframes/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\skills\\hyperframes\\SKILL.md",
+    "status": "需配置工具或运行环境；未在目标 Agent 运行验收"
+  },
+  {
+    "skill": "hyperframes-animation",
+    "category": "视频制作",
+    "entry": "视频制作/hyperframes-animation/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\skills\\hyperframes-animation\\SKILL.md",
+    "status": "需配置工具或运行环境；未在目标 Agent 运行验收"
+  },
+  {
+    "skill": "hyperframes-audio",
+    "category": "视频制作",
+    "entry": "视频制作/hyperframes-audio/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\skills\\hyperframes-audio\\SKILL.md",
+    "status": "需配置工具或运行环境；未在目标 Agent 运行验收"
+  },
+  {
+    "skill": "hyperframes-cli",
+    "category": "视频制作",
+    "entry": "视频制作/hyperframes-cli/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\skills\\hyperframes-cli\\SKILL.md",
+    "status": "需配置工具或运行环境；未在目标 Agent 运行验收"
+  },
+  {
+    "skill": "hyperframes-core",
+    "category": "视频制作",
+    "entry": "视频制作/hyperframes-core/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\skills\\hyperframes-core\\SKILL.md",
+    "status": "需配置工具或运行环境；未在目标 Agent 运行验收"
+  },
+  {
+    "skill": "hyperframes-creative",
+    "category": "视频制作",
+    "entry": "视频制作/hyperframes-creative/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\skills\\hyperframes-creative\\SKILL.md",
+    "status": "需配置工具或运行环境；未在目标 Agent 运行验收"
+  },
+  {
+    "skill": "hyperframes-keyframes",
+    "category": "视频制作",
+    "entry": "视频制作/hyperframes-keyframes/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\skills\\hyperframes-keyframes\\SKILL.md",
+    "status": "需配置工具或运行环境；未在目标 Agent 运行验收"
+  },
+  {
+    "skill": "hyperframes-registry",
+    "category": "视频制作",
+    "entry": "视频制作/hyperframes-registry/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\skills\\hyperframes-registry\\SKILL.md",
+    "status": "需配置工具或运行环境；未在目标 Agent 运行验收"
+  },
+  {
+    "skill": "media-use",
+    "category": "视频制作",
+    "entry": "视频制作/media-use/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\skills\\media-use\\SKILL.md",
+    "status": "需配置工具或运行环境；未在目标 Agent 运行验收"
+  },
+  {
+    "skill": "remotion-best-practices",
+    "category": "视频制作",
+    "entry": "视频制作/remotion-best-practices/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\skills\\remotion-best-practices\\SKILL.md",
+    "status": "需配置工具或运行环境；未在目标 Agent 运行验收"
+  },
+  {
+    "skill": "grill-me",
+    "category": "需求讨论",
+    "entry": "需求讨论/grill-me/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.agents\\skills\\grill-me\\SKILL.md",
+    "status": "需配置工具或运行环境；未在目标 Agent 运行验收"
+  },
+  {
+    "skill": "grilling",
+    "category": "需求讨论",
+    "entry": "需求讨论/grilling/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.agents\\skills\\grilling\\SKILL.md",
+    "status": "需配置工具或运行环境；未在目标 Agent 运行验收"
+  }
+]

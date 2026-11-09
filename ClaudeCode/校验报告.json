@@ -1,0 +1,19 @@
+﻿{
+  "agent": "ClaudeCode",
+  "skills": 34,
+  "categories": 13,
+  "excluded": 39,
+  "copied_files": 2557,
+  "unchanged_files_sha256_verified": 2549,
+  "adapted_entries": [
+    "图像生成/imagegen/SKILL.md",
+    "技能管理/openai-docs/SKILL.md",
+    "技能管理/skill-creator/SKILL.md",
+    "技能管理/skill-installer/SKILL.md",
+    "需求讨论/grill-me/SKILL.md"
+  ],
+  "credential_scan_matches": 0,
+  "large_files_over_95mb": 0,
+  "runtime_tests": "未在 Claude Code 中运行验收",
+  "official_reference": "https://code.claude.com/docs/en/skills"
+}

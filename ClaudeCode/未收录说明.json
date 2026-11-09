@@ -1,0 +1,158 @@
+﻿[
+  {
+    "skill": "google-docs",
+    "reason": "现有版本依赖 ChatGPT/Codex 专用插件接口、运行时或模板服务，尚无 Claude Code 后端适配；没有将文件可复制视为功能已可用。"
+  },
+  {
+    "skill": "google-drive",
+    "reason": "现有版本依赖 ChatGPT/Codex 专用插件接口、运行时或模板服务，尚无 Claude Code 后端适配；没有将文件可复制视为功能已可用。"
+  },
+  {
+    "skill": "google-drive-comments",
+    "reason": "现有版本依赖 ChatGPT/Codex 专用插件接口、运行时或模板服务，尚无 Claude Code 后端适配；没有将文件可复制视为功能已可用。"
+  },
+  {
+    "skill": "google-sheets",
+    "reason": "现有版本依赖 ChatGPT/Codex 专用插件接口、运行时或模板服务，尚无 Claude Code 后端适配；没有将文件可复制视为功能已可用。"
+  },
+  {
+    "skill": "google-slides",
+    "reason": "现有版本依赖 ChatGPT/Codex 专用插件接口、运行时或模板服务，尚无 Claude Code 后端适配；没有将文件可复制视为功能已可用。"
+  },
+  {
+    "skill": "visualize",
+    "reason": "现有版本依赖 ChatGPT/Codex 专用插件接口、运行时或模板服务，尚无 Claude Code 后端适配；没有将文件可复制视为功能已可用。"
+  },
+  {
+    "skill": "artifact-template-analytics-dashboard",
+    "reason": "现有版本依赖 ChatGPT/Codex 专用插件接口、运行时或模板服务，尚无 Claude Code 后端适配；没有将文件可复制视为功能已可用。"
+  },
+  {
+    "skill": "artifact-template-business-review",
+    "reason": "现有版本依赖 ChatGPT/Codex 专用插件接口、运行时或模板服务，尚无 Claude Code 后端适配；没有将文件可复制视为功能已可用。"
+  },
+  {
+    "skill": "artifact-template-design-report",
+    "reason": "现有版本依赖 ChatGPT/Codex 专用插件接口、运行时或模板服务，尚无 Claude Code 后端适配；没有将文件可复制视为功能已可用。"
+  },
+  {
+    "skill": "artifact-template-experiment-analysis",
+    "reason": "现有版本依赖 ChatGPT/Codex 专用插件接口、运行时或模板服务，尚无 Claude Code 后端适配；没有将文件可复制视为功能已可用。"
+  },
+  {
+    "skill": "artifact-template-financial-budget",
+    "reason": "现有版本依赖 ChatGPT/Codex 专用插件接口、运行时或模板服务，尚无 Claude Code 后端适配；没有将文件可复制视为功能已可用。"
+  },
+  {
+    "skill": "artifact-template-investment-committee-memo",
+    "reason": "现有版本依赖 ChatGPT/Codex 专用插件接口、运行时或模板服务，尚无 Claude Code 后端适配；没有将文件可复制视为功能已可用。"
+  },
+  {
+    "skill": "artifact-template-legal-memorandum",
+    "reason": "现有版本依赖 ChatGPT/Codex 专用插件接口、运行时或模板服务，尚无 Claude Code 后端适配；没有将文件可复制视为功能已可用。"
+  },
+  {
+    "skill": "artifact-template-market-trends-report",
+    "reason": "现有版本依赖 ChatGPT/Codex 专用插件接口、运行时或模板服务，尚无 Claude Code 后端适配；没有将文件可复制视为功能已可用。"
+  },
+  {
+    "skill": "artifact-template-minimal-letterhead",
+    "reason": "现有版本依赖 ChatGPT/Codex 专用插件接口、运行时或模板服务，尚无 Claude Code 后端适配；没有将文件可复制视为功能已可用。"
+  },
+  {
+    "skill": "artifact-template-operating-calendar",
+    "reason": "现有版本依赖 ChatGPT/Codex 专用插件接口、运行时或模板服务，尚无 Claude Code 后端适配；没有将文件可复制视为功能已可用。"
+  },
+  {
+    "skill": "artifact-template-operating-review",
+    "reason": "现有版本依赖 ChatGPT/Codex 专用插件接口、运行时或模板服务，尚无 Claude Code 后端适配；没有将文件可复制视为功能已可用。"
+  },
+  {
+    "skill": "artifact-template-project-kickoff",
+    "reason": "现有版本依赖 ChatGPT/Codex 专用插件接口、运行时或模板服务，尚无 Claude Code 后端适配；没有将文件可复制视为功能已可用。"
+  },
+  {
+    "skill": "artifact-template-project-tracker",
+    "reason": "现有版本依赖 ChatGPT/Codex 专用插件接口、运行时或模板服务，尚无 Claude Code 后端适配；没有将文件可复制视为功能已可用。"
+  },
+  {
+    "skill": "artifact-template-sales-pipeline",
+    "reason": "现有版本依赖 ChatGPT/Codex 专用插件接口、运行时或模板服务，尚无 Claude Code 后端适配；没有将文件可复制视为功能已可用。"
+  },
+  {
+    "skill": "artifact-template-simple-dark-mode",
+    "reason": "现有版本依赖 ChatGPT/Codex 专用插件接口、运行时或模板服务，尚无 Claude Code 后端适配；没有将文件可复制视为功能已可用。"
+  },
+  {
+    "skill": "artifact-template-simple-light-mode",
+    "reason": "现有版本依赖 ChatGPT/Codex 专用插件接口、运行时或模板服务，尚无 Claude Code 后端适配；没有将文件可复制视为功能已可用。"
+  },
+  {
+    "skill": "artifact-template-strategy-memorandum",
+    "reason": "现有版本依赖 ChatGPT/Codex 专用插件接口、运行时或模板服务，尚无 Claude Code 后端适配；没有将文件可复制视为功能已可用。"
+  },
+  {
+    "skill": "artifact-template-system-design",
+    "reason": "现有版本依赖 ChatGPT/Codex 专用插件接口、运行时或模板服务，尚无 Claude Code 后端适配；没有将文件可复制视为功能已可用。"
+  },
+  {
+    "skill": "artifact-template-team-alignment",
+    "reason": "现有版本依赖 ChatGPT/Codex 专用插件接口、运行时或模板服务，尚无 Claude Code 后端适配；没有将文件可复制视为功能已可用。"
+  },
+  {
+    "skill": "artifact-template-three-statement-forecast",
+    "reason": "现有版本依赖 ChatGPT/Codex 专用插件接口、运行时或模板服务，尚无 Claude Code 后端适配；没有将文件可复制视为功能已可用。"
+  },
+  {
+    "skill": "plugin-management",
+    "reason": "现有版本依赖 ChatGPT/Codex 专用插件接口、运行时或模板服务，尚无 Claude Code 后端适配；没有将文件可复制视为功能已可用。"
+  },
+  {
+    "skill": "template-creator",
+    "reason": "现有版本依赖 ChatGPT/Codex 专用插件接口、运行时或模板服务，尚无 Claude Code 后端适配；没有将文件可复制视为功能已可用。"
+  },
+  {
+    "skill": "excel-live-control",
+    "reason": "现有版本依赖 ChatGPT/Codex 专用插件接口、运行时或模板服务，尚无 Claude Code 后端适配；没有将文件可复制视为功能已可用。"
+  },
+  {
+    "skill": "spreadsheets",
+    "reason": "现有版本依赖 ChatGPT/Codex 专用插件接口、运行时或模板服务，尚无 Claude Code 后端适配；没有将文件可复制视为功能已可用。"
+  },
+  {
+    "skill": "documents",
+    "reason": "现有版本依赖 ChatGPT/Codex 专用插件接口、运行时或模板服务，尚无 Claude Code 后端适配；没有将文件可复制视为功能已可用。"
+  },
+  {
+    "skill": "pdf-openai",
+    "reason": "现有版本依赖 ChatGPT/Codex 专用插件接口、运行时或模板服务，尚无 Claude Code 后端适配；没有将文件可复制视为功能已可用。"
+  },
+  {
+    "skill": "create-pet",
+    "reason": "现有版本依赖 ChatGPT/Codex 专用插件接口、运行时或模板服务，尚无 Claude Code 后端适配；没有将文件可复制视为功能已可用。"
+  },
+  {
+    "skill": "pets",
+    "reason": "现有版本依赖 ChatGPT/Codex 专用插件接口、运行时或模板服务，尚无 Claude Code 后端适配；没有将文件可复制视为功能已可用。"
+  },
+  {
+    "skill": "update-pet",
+    "reason": "现有版本依赖 ChatGPT/Codex 专用插件接口、运行时或模板服务，尚无 Claude Code 后端适配；没有将文件可复制视为功能已可用。"
+  },
+  {
+    "skill": "presentations",
+    "reason": "现有版本依赖 ChatGPT/Codex 专用插件接口、运行时或模板服务，尚无 Claude Code 后端适配；没有将文件可复制视为功能已可用。"
+  },
+  {
+    "skill": "computer-use",
+    "reason": "现有版本依赖 ChatGPT/Codex 专用插件接口、运行时或模板服务，尚无 Claude Code 后端适配；没有将文件可复制视为功能已可用。"
+  },
+  {
+    "skill": "sites",
+    "reason": "现有版本依赖 ChatGPT/Codex 专用插件接口、运行时或模板服务，尚无 Claude Code 后端适配；没有将文件可复制视为功能已可用。"
+  },
+  {
+    "skill": "sites-remix",
+    "reason": "现有版本依赖 ChatGPT/Codex 专用插件接口、运行时或模板服务，尚无 Claude Code 后端适配；没有将文件可复制视为功能已可用。"
+  }
+]

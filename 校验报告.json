@@ -3,7 +3,8 @@
     "Codex": 73,
     "Cursor": 34,
     "Antigravity": 34,
-    "DeeSeek Harness": 34
+    "DeeSeek Harness": 34,
+    "ClaudeCode": 34
   },
   "unique_source_skills": 73,
   "duplicates_not_copied": [
@@ -34,5 +35,24 @@
     "E:\\skills_sorted\\DeeSeek Harness\\技能管理\\skill-installer\\SKILL.md",
     "E:\\skills_sorted\\DeeSeek Harness\\需求讨论\\grill-me\\SKILL.md"
   ],
-  "runtime_tests": "未执行；仅完成分发、入口及复制完整性校验"
+  "runtime_tests": "未执行；仅完成分发、入口及复制完整性校验",
+  "claudecode_addition": {
+    "agent": "ClaudeCode",
+    "skills": 34,
+    "categories": 13,
+    "excluded": 39,
+    "copied_files": 2557,
+    "unchanged_files_sha256_verified": 2549,
+    "adapted_entries": [
+      "图像生成/imagegen/SKILL.md",
+      "技能管理/openai-docs/SKILL.md",
+      "技能管理/skill-creator/SKILL.md",
+      "技能管理/skill-installer/SKILL.md",
+      "需求讨论/grill-me/SKILL.md"
+    ],
+    "credential_scan_matches": 0,
+    "large_files_over_95mb": 0,
+    "runtime_tests": "未在 Claude Code 中运行验收",
+    "official_reference": "https://code.claude.com/docs/en/skills"
+  }
 }

@@ -1,0 +1,308 @@
+﻿[
+  {
+    "skill": "agent-reach",
+    "category": "互联网调研",
+    "entry": "互联网调研/agent-reach/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\skills\\agent-reach\\SKILL.md",
+    "status": "Claude Code 分发版；依赖按需配置，未在 Claude Code 运行验收",
+    "distribution_source": "Cursor/互联网调研/agent-reach/SKILL.md",
+    "target_agent": "Claude Code"
+  },
+  {
+    "skill": "cli-creator",
+    "category": "代码维护",
+    "entry": "代码维护/cli-creator/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\skills\\cli-creator\\SKILL.md",
+    "status": "Claude Code 分发版；依赖按需配置，未在 Claude Code 运行验收",
+    "distribution_source": "Cursor/代码维护/cli-creator/SKILL.md",
+    "target_agent": "Claude Code"
+  },
+  {
+    "skill": "gh-address-comments",
+    "category": "代码维护",
+    "entry": "代码维护/gh-address-comments/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\skills\\gh-address-comments\\SKILL.md",
+    "status": "Claude Code 分发版；依赖按需配置，未在 Claude Code 运行验收",
+    "distribution_source": "Cursor/代码维护/gh-address-comments/SKILL.md",
+    "target_agent": "Claude Code"
+  },
+  {
+    "skill": "gh-fix-ci",
+    "category": "代码维护",
+    "entry": "代码维护/gh-fix-ci/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\skills\\gh-fix-ci\\SKILL.md",
+    "status": "Claude Code 分发版；依赖按需配置，未在 Claude Code 运行验收",
+    "distribution_source": "Cursor/代码维护/gh-fix-ci/SKILL.md",
+    "target_agent": "Claude Code"
+  },
+  {
+    "skill": "review-agent",
+    "category": "代码维护",
+    "entry": "代码维护/review-agent/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\skills\\.system\\review-agent\\SKILL.md",
+    "status": "Claude Code 分发版；依赖按需配置，未在 Claude Code 运行验收",
+    "distribution_source": "Cursor/代码维护/review-agent/SKILL.md",
+    "target_agent": "Claude Code"
+  },
+  {
+    "skill": "security-best-practices",
+    "category": "代码维护",
+    "entry": "代码维护/security-best-practices/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\skills\\security-best-practices\\SKILL.md",
+    "status": "Claude Code 分发版；依赖按需配置，未在 Claude Code 运行验收",
+    "distribution_source": "Cursor/代码维护/security-best-practices/SKILL.md",
+    "target_agent": "Claude Code"
+  },
+  {
+    "skill": "write-like-me",
+    "category": "写作辅助",
+    "entry": "写作辅助/write-like-me-0.1.1/skills/write-like-me/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\plugins\\cache\\openai-curated-remote\\write-like-me\\0.1.1\\skills\\write-like-me\\SKILL.md",
+    "status": "Claude Code 分发版；依赖按需配置，未在 Claude Code 运行验收",
+    "distribution_source": "Cursor/写作辅助/write-like-me-0.1.1/skills/write-like-me/SKILL.md",
+    "target_agent": "Claude Code"
+  },
+  {
+    "skill": "imagegen",
+    "category": "图像生成",
+    "entry": "图像生成/imagegen/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\skills\\.system\\imagegen\\SKILL.md",
+    "status": "Claude Code 分发版；依赖按需配置，未在 Claude Code 运行验收",
+    "distribution_source": "Cursor/图像生成/imagegen/SKILL.md",
+    "target_agent": "Claude Code"
+  },
+  {
+    "skill": "drawio-skill",
+    "category": "图表绘制",
+    "entry": "图表绘制/drawio-skill/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.agents\\skills\\cumcm-step-review\\tools\\drawio\\SKILL.md",
+    "status": "Claude Code 分发版；依赖按需配置，未在 Claude Code 运行验收",
+    "distribution_source": "Cursor/图表绘制/drawio-skill/SKILL.md",
+    "target_agent": "Claude Code"
+  },
+  {
+    "skill": "dual-paper-search",
+    "category": "学术检索",
+    "entry": "学术检索/dual-paper-search/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.agents\\skills\\cumcm-step-review\\tools\\paper_search\\SKILL.md",
+    "status": "Claude Code 分发版；依赖按需配置，未在 Claude Code 运行验收",
+    "distribution_source": "Cursor/学术检索/dual-paper-search/SKILL.md",
+    "target_agent": "Claude Code"
+  },
+  {
+    "skill": "find-skills",
+    "category": "技能管理",
+    "entry": "技能管理/find-skills/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\skills\\find-skills\\SKILL.md",
+    "status": "Claude Code 分发版；依赖按需配置，未在 Claude Code 运行验收",
+    "distribution_source": "Cursor/技能管理/find-skills/SKILL.md",
+    "target_agent": "Claude Code"
+  },
+  {
+    "skill": "openai-docs",
+    "category": "技能管理",
+    "entry": "技能管理/openai-docs/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\skills\\.system\\openai-docs\\SKILL.md",
+    "status": "Claude Code 分发版；依赖按需配置，未在 Claude Code 运行验收",
+    "distribution_source": "Cursor/技能管理/openai-docs/SKILL.md",
+    "target_agent": "Claude Code"
+  },
+  {
+    "skill": "skill-creator",
+    "category": "技能管理",
+    "entry": "技能管理/skill-creator/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\skills\\.system\\skill-creator\\SKILL.md",
+    "status": "Claude Code 分发版；依赖按需配置，未在 Claude Code 运行验收",
+    "distribution_source": "Cursor/技能管理/skill-creator/SKILL.md",
+    "target_agent": "Claude Code"
+  },
+  {
+    "skill": "skill-installer",
+    "category": "技能管理",
+    "entry": "技能管理/skill-installer/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\skills\\.system\\skill-installer\\SKILL.md",
+    "status": "Claude Code 分发版；依赖按需配置，未在 Claude Code 运行验收",
+    "distribution_source": "Cursor/技能管理/skill-installer/SKILL.md",
+    "target_agent": "Claude Code"
+  },
+  {
+    "skill": "cumcm-step-review",
+    "category": "数学建模",
+    "entry": "数学建模/cumcm-step-review/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.agents\\skills\\cumcm-step-review\\SKILL.md",
+    "status": "Claude Code 分发版；依赖按需配置，未在 Claude Code 运行验收",
+    "distribution_source": "Cursor/数学建模/cumcm-step-review/SKILL.md",
+    "target_agent": "Claude Code"
+  },
+  {
+    "skill": "jupyter-notebook",
+    "category": "数据分析",
+    "entry": "数据分析/jupyter-notebook/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\skills\\jupyter-notebook\\SKILL.md",
+    "status": "Claude Code 分发版；依赖按需配置，未在 Claude Code 运行验收",
+    "distribution_source": "Cursor/数据分析/jupyter-notebook/SKILL.md",
+    "target_agent": "Claude Code"
+  },
+  {
+    "skill": "xlsx-tools",
+    "category": "数据分析",
+    "entry": "数据分析/xlsx-tools/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.agents\\skills\\cumcm-step-review\\tools\\xlsx\\SKILL.md",
+    "status": "Claude Code 分发版；依赖按需配置，未在 Claude Code 运行验收",
+    "distribution_source": "Cursor/数据分析/xlsx-tools/SKILL.md",
+    "target_agent": "Claude Code"
+  },
+  {
+    "skill": "docx-tools",
+    "category": "文档办公",
+    "entry": "文档办公/docx-tools/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.agents\\skills\\cumcm-step-review\\tools\\docx\\SKILL.md",
+    "status": "Claude Code 分发版；依赖按需配置，未在 Claude Code 运行验收",
+    "distribution_source": "Cursor/文档办公/docx-tools/SKILL.md",
+    "target_agent": "Claude Code"
+  },
+  {
+    "skill": "latex-tools",
+    "category": "文档办公",
+    "entry": "文档办公/latex-tools/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.agents\\skills\\cumcm-step-review\\tools\\latex\\SKILL.md",
+    "status": "Claude Code 分发版；依赖按需配置，未在 Claude Code 运行验收",
+    "distribution_source": "Cursor/文档办公/latex-tools/SKILL.md",
+    "target_agent": "Claude Code"
+  },
+  {
+    "skill": "pdf-cumcm",
+    "category": "文档办公",
+    "entry": "文档办公/pdf-cumcm/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.agents\\skills\\cumcm-step-review\\tools\\pdf\\SKILL.md",
+    "status": "Claude Code 分发版；依赖按需配置，未在 Claude Code 运行验收",
+    "distribution_source": "Cursor/文档办公/pdf-cumcm/SKILL.md",
+    "target_agent": "Claude Code"
+  },
+  {
+    "skill": "impeccable",
+    "category": "网站与界面设计",
+    "entry": "网站与界面设计/impeccable/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.agents\\skills\\impeccable\\SKILL.md",
+    "status": "Claude Code 分发版；依赖按需配置，未在 Claude Code 运行验收",
+    "distribution_source": "Cursor/网站与界面设计/impeccable/SKILL.md",
+    "target_agent": "Claude Code"
+  },
+  {
+    "skill": "personal-intro-site",
+    "category": "网站与界面设计",
+    "entry": "网站与界面设计/personal-intro-site/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\skills\\personal-intro-site\\SKILL.md",
+    "status": "Claude Code 分发版；依赖按需配置，未在 Claude Code 运行验收",
+    "distribution_source": "Cursor/网站与界面设计/personal-intro-site/SKILL.md",
+    "target_agent": "Claude Code"
+  },
+  {
+    "skill": "hyperframes",
+    "category": "视频制作",
+    "entry": "视频制作/hyperframes/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\skills\\hyperframes\\SKILL.md",
+    "status": "Claude Code 分发版；依赖按需配置，未在 Claude Code 运行验收",
+    "distribution_source": "Cursor/视频制作/hyperframes/SKILL.md",
+    "target_agent": "Claude Code"
+  },
+  {
+    "skill": "hyperframes-animation",
+    "category": "视频制作",
+    "entry": "视频制作/hyperframes-animation/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\skills\\hyperframes-animation\\SKILL.md",
+    "status": "Claude Code 分发版；依赖按需配置，未在 Claude Code 运行验收",
+    "distribution_source": "Cursor/视频制作/hyperframes-animation/SKILL.md",
+    "target_agent": "Claude Code"
+  },
+  {
+    "skill": "hyperframes-audio",
+    "category": "视频制作",
+    "entry": "视频制作/hyperframes-audio/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\skills\\hyperframes-audio\\SKILL.md",
+    "status": "Claude Code 分发版；依赖按需配置，未在 Claude Code 运行验收",
+    "distribution_source": "Cursor/视频制作/hyperframes-audio/SKILL.md",
+    "target_agent": "Claude Code"
+  },
+  {
+    "skill": "hyperframes-cli",
+    "category": "视频制作",
+    "entry": "视频制作/hyperframes-cli/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\skills\\hyperframes-cli\\SKILL.md",
+    "status": "Claude Code 分发版；依赖按需配置，未在 Claude Code 运行验收",
+    "distribution_source": "Cursor/视频制作/hyperframes-cli/SKILL.md",
+    "target_agent": "Claude Code"
+  },
+  {
+    "skill": "hyperframes-core",
+    "category": "视频制作",
+    "entry": "视频制作/hyperframes-core/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\skills\\hyperframes-core\\SKILL.md",
+    "status": "Claude Code 分发版；依赖按需配置，未在 Claude Code 运行验收",
+    "distribution_source": "Cursor/视频制作/hyperframes-core/SKILL.md",
+    "target_agent": "Claude Code"
+  },
+  {
+    "skill": "hyperframes-creative",
+    "category": "视频制作",
+    "entry": "视频制作/hyperframes-creative/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\skills\\hyperframes-creative\\SKILL.md",
+    "status": "Claude Code 分发版；依赖按需配置，未在 Claude Code 运行验收",
+    "distribution_source": "Cursor/视频制作/hyperframes-creative/SKILL.md",
+    "target_agent": "Claude Code"
+  },
+  {
+    "skill": "hyperframes-keyframes",
+    "category": "视频制作",
+    "entry": "视频制作/hyperframes-keyframes/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\skills\\hyperframes-keyframes\\SKILL.md",
+    "status": "Claude Code 分发版；依赖按需配置，未在 Claude Code 运行验收",
+    "distribution_source": "Cursor/视频制作/hyperframes-keyframes/SKILL.md",
+    "target_agent": "Claude Code"
+  },
+  {
+    "skill": "hyperframes-registry",
+    "category": "视频制作",
+    "entry": "视频制作/hyperframes-registry/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\skills\\hyperframes-registry\\SKILL.md",
+    "status": "Claude Code 分发版；依赖按需配置，未在 Claude Code 运行验收",
+    "distribution_source": "Cursor/视频制作/hyperframes-registry/SKILL.md",
+    "target_agent": "Claude Code"
+  },
+  {
+    "skill": "media-use",
+    "category": "视频制作",
+    "entry": "视频制作/media-use/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\skills\\media-use\\SKILL.md",
+    "status": "Claude Code 分发版；依赖按需配置，未在 Claude Code 运行验收",
+    "distribution_source": "Cursor/视频制作/media-use/SKILL.md",
+    "target_agent": "Claude Code"
+  },
+  {
+    "skill": "remotion-best-practices",
+    "category": "视频制作",
+    "entry": "视频制作/remotion-best-practices/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.codex\\skills\\remotion-best-practices\\SKILL.md",
+    "status": "Claude Code 分发版；依赖按需配置，未在 Claude Code 运行验收",
+    "distribution_source": "Cursor/视频制作/remotion-best-practices/SKILL.md",
+    "target_agent": "Claude Code"
+  },
+  {
+    "skill": "grill-me",
+    "category": "需求讨论",
+    "entry": "需求讨论/grill-me/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.agents\\skills\\grill-me\\SKILL.md",
+    "status": "Claude Code 分发版；依赖按需配置，未在 Claude Code 运行验收",
+    "distribution_source": "Cursor/需求讨论/grill-me/SKILL.md",
+    "target_agent": "Claude Code"
+  },
+  {
+    "skill": "grilling",
+    "category": "需求讨论",
+    "entry": "需求讨论/grilling/SKILL.md",
+    "source": "C:\\Users\\lhy20\\.agents\\skills\\grilling\\SKILL.md",
+    "status": "Claude Code 分发版；依赖按需配置，未在 Claude Code 运行验收",
+    "distribution_source": "Cursor/需求讨论/grilling/SKILL.md",
+    "target_agent": "Claude Code"
+  }
+]
